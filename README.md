@@ -15,3 +15,6 @@ Support Python2.7, Python3.5
     print(debug)
     print(mysql.slave)
     print(mysql.slave.user)
+
+# License
+MIT
