@@ -16,9 +16,5 @@ Support Python2.7, Python3.5
     print(mysql.slave)
     print(mysql.slave.user)
 
-# Install
-
-    pip install git+https://github.com/singpenguin/loadcf.git@master
-
 # License
 MIT
