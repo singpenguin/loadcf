@@ -3,6 +3,7 @@ It is a python config file loader. It convert config item to python module item,
 Support Python2.7, Python3.5
 
 # Usage
+
   """
   {"debug": true, "items": [1, 2, 3, 4], "mysql": {"slave": {"db": "postgresql", "user": "root"}, "name": "mysql", "db": "blog", "port": 3306}}
   """
